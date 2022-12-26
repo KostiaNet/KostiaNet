@@ -1,4 +1,5 @@
 ### Hi there!)
+![Coding](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
 I'm 21 Y.O. QA - Programmer from Ukraine, my name is Kostiantyn, but I prefer Kostia
 
 I has finished QA course recently and currently I hope to find work with this specialization
