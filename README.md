@@ -1,5 +1,6 @@
 ### Hi there!)
 I'm 21 Y.O. QA - Programmer from Ukraine, my name is Kostiantyn, but I prefer Kostia
+
 I has finished QA course recently and currently I hope to find work with this specialization
 
 At this moment I'm making games on Unity game engine, learning C# and theory of game design 
